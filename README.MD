@@ -1,6 +1,6 @@
 # 📧 Email Scraper for Roundcube Webmail
 
-This Dockerized Python app automates the process of scraping **name**, **phone number**, and **email** from messages in a Roundcube Webmail inbox.
+This Python app automates the process of scraping **name**, **phone number**, and **email** from messages in a Roundcube Webmail inbox.
 
 It logs into your mailbox, cycles through emails containing a specific keyword (e.g., `Giftlab`), extracts the necessary details, and saves them into `.xlsx` files — one for each page of results.
 
