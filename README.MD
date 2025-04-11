@@ -12,14 +12,12 @@ It logs into your mailbox, cycles through emails containing a specific keyword (
 - ✅ Extracts structured customer data
 - ✅ Auto-pagination across inbox
 - ✅ Saves output in `.xlsx` format
-- ✅ Easy to run in a container
 
 ---
 
 ## 🛠 Requirements
 
 - Roundcube Webmail access
-- Docker installed
 - A valid Roundcube login (email + password)
 
 ---
